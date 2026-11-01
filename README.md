@@ -1,8 +1,6 @@
 # Password-Security-and-Authentication-Analysis
 
 
-#  Password Security & Authentication Analysis
-
 ## Project Overview
 Password Security & Authentication Analysis is a web-based cybersecurity project developed using Python and Flask.
 
